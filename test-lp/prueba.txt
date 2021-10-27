@@ -1,1 +1,1 @@
-En éste directorio tenemos una landing page con su respectivo html, css y js. Sobre ésta, debes hallar los errores entre archivos que no permiten la correcta visualización de la misma según los errores en consola.
+En éste directorio tenemos una landing page con su respectivo html, css y js. Sobre ésta, debes hallar los errores entre archivos que no permiten la correcta visualización de la misma según los errores en consola y su prototipo.
