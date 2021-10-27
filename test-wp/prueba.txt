@@ -1,0 +1,4 @@
+Sobre un WordPress en tu local, debes maquetar la siguiente landing page con el constructor visual Elementor: https://xd.adobe.com/view/97ba6e5b-bcb7-4c59-8c28-cdcfb2e892a5-c2e9/, cuando finalices, sube el wp-config.php, la carpeta wp-content y la base de datos a un repositorio y nos compartes la url.
+
+Te sugerimos usar Devkinsta para agilizar el deploy y exporte cuando finalices la maquetación.
+https://kinsta.com/es/devkinsta/download/
