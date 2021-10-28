@@ -12,12 +12,12 @@ window.addEventListener('DOMContentLoaded', event => {
             navbarCollapsible.classList.add('navbar-shrink')
         }
 
-    };
+    }
 
     navbarShrink();
 
     document.addEventListener('scroll', navbarShrink);
-    let display = 'none'
+    //let display = 'none'
 
     const mainNav = document.body.querySelector('#main-nav');
     if (mainNav) {

@@ -1,0 +1,14 @@
+Index.html:
+
+- Linea 16 estaba la palabra 'stylesheet' mal escrita, con una sola 'e'. Por eso no se estaba llamando correctamente el css. 
+- Linea 70 se cambia bi-building se cambia por bi-gem.
+- Linea 84 se cambia bi-android por bi-globe.
+- Linea 114, la imagen 2.jpg se está llamando con una ruta que no existe. La ruta correcta es en la carpeta thumbnails/2.jpg
+- Linea 150, la imagen 6.jpg se está llamando con una ruta que no existe. Falta agregar la carpeta 'assets' a la ruta.
+- En donde está el texto 'Banner y texto CTA' faltaba encerrarlo dentro del div col y div col, que tienen las demás secciones de la página.
+- Linea 170, faltaba el justify-content-center para centrar el contenedor.
+- Linea 177, faltaba el justify-content-center para centrar el contenedor.
+
+- En el styles.css en la linea 11385, la imagen bg-masthead.png, en realidad tiene extensión .jpg
+
+- En scripts.js en la linea 20, se deja comentado: let display = 'none'
